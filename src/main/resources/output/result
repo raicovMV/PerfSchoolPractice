@@ -1,0 +1,9 @@
+Total numbers of user names is: 8
+Julia : is Invalid
+Samantha : is Valid
+Samantha_21 : is Valid
+1Samantha : is Invalid
+Samantha?10_2A : is Invalid
+JuliaZ007 : is Valid
+Julia@007 : is Invalid
+_Julia007 : is Invalid
